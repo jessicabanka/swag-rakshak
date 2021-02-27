@@ -9,9 +9,9 @@ Tech stack used-  html,css,js<BR>
 
 Installation steps: A clear sequence of steps to run your hack:<BR>
     
-    Step1:CLICK on rakshakc.zip file. 
-    Step2:Download it by clicking view raw.
-    Step3:Extract the zip file.
+    Step1:CLICK on download code option. 
+    Step2:Click on download zip.
+    Step3:Extract the zip file in your PC.
     Step4:Open the downloaded folder with VS code.
     Step5:Run the program on your browser.
     
